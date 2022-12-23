@@ -1,0 +1,15 @@
+.. Lumination_documentation documentation master file, created by
+   sphinx-quickstart on Fri Dec 23 06:26:37 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Дабро пожаловать в документацию игры Lumination!
+====================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   menu
+   settings
+
